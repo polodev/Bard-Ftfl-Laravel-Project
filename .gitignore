@@ -1,0 +1,11 @@
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+.idea/*
+public/course_img/*
+public/uploads/*
+public/trainer_img/*
+public/training_img/*
+public/reg_img/*

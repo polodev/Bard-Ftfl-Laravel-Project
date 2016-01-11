@@ -1,0 +1,1 @@
+{!! $newsletter->email_subject !!}
